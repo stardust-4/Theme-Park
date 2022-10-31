@@ -14,7 +14,7 @@ One Paragraph of the project description
     [LinkedIn](https://www.linkedin.com/in/jonathanvillagomezhernandez/)
 
   - **John Boyle** - *Provided README Template* -
-    [LinkedIn](https://www.linkedin.com/in/john-boyle-dev/) [Github](https://github.com/stardust-4)
+    [LinkedIn](https://www.linkedin.com/in/john-boyle-dev/) | [Github](https://github.com/stardust-4)
 
 ## Getting Started
 
