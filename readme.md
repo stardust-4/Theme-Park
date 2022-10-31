@@ -6,19 +6,18 @@
 
 An application that displays theme parks and their associated rides. CRD Application, enables Create, Read, and Delete functionality. Inside of our schemas we are adding descriptions which includes ride images, capacity, title, minimum height, and a summary.
 
-## Authors
 
-  - **Kalen Luciano** - *Driver* -
-    [LinkedIn](https://www.linkedin.com/in/kalenluciano/) | [Github](https://github.com/kalenluciano)
+## Technologies Used
 
-  - **Jerry Chen** - *Navigator* -
-    [LinkedIn](https://www.linkedin.com/in/jerrychen31/) | [Github](https://github.com/Bluepanda93)
+  - HTML
+  - CSS
+  - React.js
+  - Express.js
+  - Node.js
+  - MongoDB
+  - Mongoose
+  - Javascript
 
-  - **Jonathan Villagomez** - *Navigator* -
-    [LinkedIn](https://www.linkedin.com/in/jonathanvillagomezhernandez/) | [Github](https://github.com/VillagomezHJonathan)
-
-  - **John Boyle** - *Navigator* -
-    [LinkedIn](https://www.linkedin.com/in/john-boyle-dev/) | [Github](https://github.com/stardust-4)
 
 ## Additional Links
 
@@ -66,29 +65,22 @@ Checks if the best practices and the right coding style has been used.
 
 Add additional notes to deploy this on a live system
 
-## Built With
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+## Authors
 
-## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+  - **Kalen Luciano** - *Driver* -
+    [LinkedIn](https://www.linkedin.com/in/kalenluciano/) | [Github](https://github.com/kalenluciano)
 
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+  - **Jerry Chen** - *Navigator* -
+    [LinkedIn](https://www.linkedin.com/in/jerrychen31/) | [Github](https://github.com/Bluepanda93)
 
-## License
+  - **Jonathan Villagomez** - *Navigator* -
+    [LinkedIn](https://www.linkedin.com/in/jonathanvillagomezhernandez/) | [Github](https://github.com/VillagomezHJonathan)
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
+  - **John Boyle** - *Navigator* -
+    [LinkedIn](https://www.linkedin.com/in/john-boyle-dev/) | [Github](https://github.com/stardust-4)
 
 ## Acknowledgments
 
