@@ -1,12 +1,10 @@
-# Project Title
-
-Ride or Die: Themepark Edition
+# Ride or Die: Themepark Edition
 
 ![Krusty Land](https://static.wikia.nocookie.net/heroism/images/1/17/The_Krustyland.jpg/revision/latest?cb=20200502000018)
 
 ## Description
 
-
+An application that displays theme parks and their associated rides. CRD Application, enables Create, Read, and Delete functionality. Inside of our schemas we are adding descriptions which includes ride images, capacity, title, minimum height, and a summary.
 
 ## Authors
 
