@@ -1,26 +1,30 @@
 # Project Title
 
-One Paragraph of the project description
+Ride or Die: Themepark Edition
+
+![Krusty Land](https://static.wikia.nocookie.net/heroism/images/1/17/The_Krustyland.jpg/revision/latest?cb=20200502000018)
+
+## Description
+
+
 
 ## Authors
 
-  - **Kalen Luciano** - *Provided README Template* -
-    [LinkedIn](https://www.linkedin.com/in/kalenluciano/) | [Github](https://github.com/stardust-4)
+  - **Kalen Luciano** - *Driver* -
+    [LinkedIn](https://www.linkedin.com/in/kalenluciano/) | [Github](https://github.com/kalenluciano)
 
-  - **Jerry Chen** - *Provided README Template* -
-    [LinkedIn](https://www.linkedin.com/in/jerrychen31/) | [Github](https://github.com/stardust-4)
+  - **Jerry Chen** - *Navigator* -
+    [LinkedIn](https://www.linkedin.com/in/jerrychen31/) | [Github](https://github.com/Bluepanda93)
 
-  - **Jonathan Villagomez** - *Provided README Template* -
-    [LinkedIn](https://www.linkedin.com/in/jonathanvillagomezhernandez/) | [Github](https://github.com/stardust-4)
+  - **Jonathan Villagomez** - *Navigator* -
+    [LinkedIn](https://www.linkedin.com/in/jonathanvillagomezhernandez/) | [Github](https://github.com/VillagomezHJonathan)
 
-  - **John Boyle** - *Provided README Template* -
+  - **John Boyle** - *Navigator* -
     [LinkedIn](https://www.linkedin.com/in/john-boyle-dev/) | [Github](https://github.com/stardust-4)
 
-## Getting Started
+## Additional Links
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+[Trello](https://trello.com/b/pK6uhXt1/theme-park-trello)
 
 ### Prerequisites
 
