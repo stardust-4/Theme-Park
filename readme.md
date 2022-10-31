@@ -4,13 +4,17 @@ One Paragraph of the project description
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
+  - **Kalen Luciano** - *Provided README Template* -
+    [LinkedIn]([https://github.com/PurpleBooth](https://www.linkedin.com/in/kalenluciano/))
+
+  - **Jerry Chen** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
+  - **Jonathan Villagomez** - *Provided README Template* -
+    [PurpleBooth](https://github.com/PurpleBooth)
 
+  - **John Boyle** - *Provided README Template* -
+    [PurpleBooth](https://github.com/PurpleBooth)
 
 ## Getting Started
 
