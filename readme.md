@@ -5,7 +5,7 @@ One Paragraph of the project description
 ## Authors
 
   - **Kalen Luciano** - *Provided README Template* -
-    [LinkedIn]([https://github.com/PurpleBooth](https://www.linkedin.com/in/kalenluciano/))
+    [LinkedIn](https://www.linkedin.com/in/kalenluciano/)
 
   - **Jerry Chen** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
