@@ -5,13 +5,13 @@ One Paragraph of the project description
 ## Authors
 
   - **Kalen Luciano** - *Provided README Template* -
-    [LinkedIn](https://www.linkedin.com/in/kalenluciano/)
+    [LinkedIn](https://www.linkedin.com/in/kalenluciano/) | [Github](https://github.com/stardust-4)
 
   - **Jerry Chen** - *Provided README Template* -
-    [LinkedIn](https://www.linkedin.com/in/jerrychen31/)
+    [LinkedIn](https://www.linkedin.com/in/jerrychen31/) | [Github](https://github.com/stardust-4)
 
   - **Jonathan Villagomez** - *Provided README Template* -
-    [LinkedIn](https://www.linkedin.com/in/jonathanvillagomezhernandez/)
+    [LinkedIn](https://www.linkedin.com/in/jonathanvillagomezhernandez/) | [Github](https://github.com/stardust-4)
 
   - **John Boyle** - *Provided README Template* -
     [LinkedIn](https://www.linkedin.com/in/john-boyle-dev/) | [Github](https://github.com/stardust-4)
