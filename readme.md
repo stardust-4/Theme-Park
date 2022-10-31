@@ -8,13 +8,13 @@ One Paragraph of the project description
     [LinkedIn](https://www.linkedin.com/in/kalenluciano/)
 
   - **Jerry Chen** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+    [LinkedIn](https://www.linkedin.com/in/jerrychen31/)
 
   - **Jonathan Villagomez** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+    [LinkedIn](https://www.linkedin.com/in/jonathanvillagomezhernandez/)
 
   - **John Boyle** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+    [LinkedIn](https://www.linkedin.com/in/john-boyle-dev/)
 
 ## Getting Started
 
